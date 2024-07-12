@@ -9,6 +9,7 @@
 
 ### Demo Screeshots for Requirement
 ![image](https://github.com/user-attachments/assets/522e3c2e-7ef7-450d-8a31-9c20c72ae058)
+<br />
 after starting Apache and Sql you need to save your folder or file in Xampp folder into htdocs folder before running code.
 
 ### Demo Screeshots
@@ -33,13 +34,13 @@ To run **Cryptex** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/vansh-frontend/stocks-site
+sudo git clone[ https://github.com/vansh-frontend/stocks-site](https://github.com/vansh-frontend/SignUp-With-Database/tree/main)
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/vansh-frontend/stocks-site
+git clone [https://github.com/vansh-frontend/stocks-site](https://github.com/vansh-frontend/SignUp-With-Database/tree/main)
 
 ### Contact
 
