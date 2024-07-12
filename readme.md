@@ -12,8 +12,7 @@
 after starting Apache and Sql you need to save your folder or file in Xampp folder into htdocs folder before running code.
 
 ### Demo Screeshots
-![image](https://github.com/user-attachments/assets/07d4f85c-5417-4dd3-8018-1b3a8f3bd91f)
-![image](https://github.com/user-attachments/assets/6d5073ae-2bdb-4264-b3da-765218957e0c)
+![image](https://github.com/user-attachments/assets/07d4f85c-5417-4dd3-8018-1b3a8f3bd91f)![image](https://github.com/user-attachments/assets/6d5073ae-2bdb-4264-b3da-765218957e0c)
 ![image](https://github.com/user-attachments/assets/e1584d1a-76b5-40b7-8eba-8cecd3a8ca18)
 
 
