@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
   <h2 align="center">SignUP With Database </h2>
