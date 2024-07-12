@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h2 align="center">SignUP With Database </h2>
@@ -50,6 +49,3 @@ If you want to contact with me you can reach me at [Linkedin](https://www.linked
 
 This project is **free to use** and does not contains any license.
 ```
-=======
-
->>>>>>> f5e17c223af54c597588b0b48f2897da7ca432a6
