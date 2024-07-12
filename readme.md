@@ -33,13 +33,13 @@ To run **Cryptex** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone[ https://github.com/vansh-frontend/stocks-site](https://github.com/vansh-frontend/SignUp-With-Database/tree/main)
+sudo git clone https://github.com/vansh-frontend/SignUp-With-Database
 ```
 
 Windows:
 
 ```bash
-git clone [https://github.com/vansh-frontend/stocks-site](https://github.com/vansh-frontend/SignUp-With-Database/tree/main)
+git clone https://github.com/vansh-frontend/SignUp-With-Database
 
 ### Contact
 
